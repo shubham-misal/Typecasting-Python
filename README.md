@@ -5,10 +5,12 @@
 <h1>
 Convert a input to different data types in python
 </h1>
+<img src="codetypecasting.png" width="70%" alt="code" title="CODE">
+<img src="typecastingot.png" alt="output" title="output">
 <h2>
   <i>
  <p>
-🚀 #You can Download, the 👆 FILES uploaded (typecasting)  and run it, you will get the same #OUTPUT 🚀
+🚀 #You can Download, the 👆 FILE uploaded (typecasting.py)  and run it, you will get the same #OUTPUT 🚀
 </p>
 </i>
 </h2> 
