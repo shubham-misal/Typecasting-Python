@@ -5,7 +5,7 @@
 <h1>
 Convert a input to different data types in python
 </h1>
-<img src="codetypecasting.png" width="100%" alt="code" title="CODE">
+<img src="codetypecasting.png" width="90%" alt="code" title="CODE">
 <img src="typecastingot.png" alt="output" title="output">
 <h2>
   <i>
