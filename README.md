@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/2570/2570575.png" alt="python" title="python" ><br>
   <b><i># Typecasting-Python</i></b>
-</h1><br>
+</h1>
 <h1>
 Convert a input to different data types in python
 </h1>
